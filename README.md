@@ -3,7 +3,8 @@ welcome to our 2nd class
 ## Sarra Yasmin
 ### I am a web devloper 
 My sKills: Java,c,c++,Javascript,HTML,CSS
-<img align="left" width="500" src="https://image.shutterstock.com/image-vector/young-woman-writes-code-on-600w-1731157933.jpg">
+<img align="left" width="400" src="https://image.shutterstock.com/image-vector/young-woman-writes-code-on-600w-1731157933.jpg">
+<img aling="right" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 ~~~html
 <!DOCTYPE html>
